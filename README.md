@@ -1,4 +1,4 @@
-# 📱 Mobil Harcama Takip Uygulaması
+# Günlük Harcama Takip Uygulaması
 
 Mobil Harcama Takip Uygulaması, kullanıcıların günlük harcamalarını kolay ve düzenli bir şekilde takip edebilmesini sağlayan bir Android mobil uygulamasıdır.
 Kullanıcılar harcama tutarlarını, açıklamalarını ve tarih bilgilerini girerek hem günlük hem de aylık toplam harcamalarını görüntüleyebilir.
@@ -41,4 +41,6 @@ Uygulama, temel olarak iki ana sınıftan oluşmaktadır:
 - **Android SDK**
 
 ---
+<img width="424" height="937" alt="image" src="https://github.com/user-attachments/assets/ca6f207d-7d68-4c48-b2eb-313e117271dd" />
+
 
