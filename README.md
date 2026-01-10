@@ -41,6 +41,7 @@ Uygulama, temel olarak iki ana sınıftan oluşmaktadır:
 - **Android SDK**
 
 ---
-<img width="424" height="937" alt="image" src="https://github.com/user-attachments/assets/ca6f207d-7d68-4c48-b2eb-313e117271dd" />
+<img width="424" height="937" alt="image" src="https://github.com/user-attachments/assets/ca6f207d-7d68-4c48-b2eb-313e117271dd" />  <img width="426" height="936" alt="image" src="https://github.com/user-attachments/assets/49fceb9a-f447-466c-b8d1-2a977a1e143e" />
+
 
 
